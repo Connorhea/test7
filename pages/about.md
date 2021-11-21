@@ -14,14 +14,4 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The topic I want to embark upon for my digital exhibition is an exploration of theNiagara region as told through its advertisements. I plan on gatheringadvertisements from newspapers and other sources that were published in theNiagara region or from companies based in Niagara. By analyzing these images, Ibelieve I can learn more about the region by seeing why a company would use acertain image to display a certain emotion. Why would a company that wants tobe associated with serenity use a depiction of an Indigenous person? What doesthat tell us about the society and their expectations at the time? The aim of theexhibition ultimately being to create a insight of the region through theintentions and depictions of company’s through their advertisements.
